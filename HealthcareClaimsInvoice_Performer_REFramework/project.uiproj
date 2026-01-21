@@ -1,0 +1,6 @@
+{
+  "Name": "HealthcareClaimsInvoice_Performer_REFramework",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
